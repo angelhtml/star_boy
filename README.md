@@ -13,6 +13,7 @@
 </p>
 
 <p>Dua Lipa Website Background Clip Hover Effect, Trying To hover on the starboy text</p>
+<a href='https://angelhtml.github.io/star_boy/'>Demo</a>
 
 <img src='https://iili.io/SrO1Js.png' alt='starboy'/>
 <img src='https://iili.io/SrOXX2.png' alt='starboy'/>
