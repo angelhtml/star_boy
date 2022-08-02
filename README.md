@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/code_style-XO-ff0000.svg" alt="dawn fm"/>
+  <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="dawn fm"/>
 </p>
 
 <p>Dua Lipa Website Background Clip Hover Effect, Trying To hover on the starboy text</p>
