@@ -1,7 +1,7 @@
 <h1>Background Clip Effect</h1>
 
 <p align="center">
-  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
+  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="xo code style"/>
 </p>
 
 <p align="center">
