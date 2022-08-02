@@ -20,4 +20,3 @@
 
 <p>Never give up, Work hard and be awesome</p>
 <p>love you all 😘</p>
-<p>XO Code Style</p>
