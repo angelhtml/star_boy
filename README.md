@@ -17,7 +17,3 @@
 
 <img src='https://iili.io/SrO1Js.png' alt='starboy'/>
 <img src='https://iili.io/SrOXX2.png' alt='starboy'/>
-
-<p>Never give up, Work hard and be awesome</p>
-<p>love you all 😘</p>
-<p>Angel Code Style</p>
